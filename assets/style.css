@@ -1,0 +1,15 @@
+.navbar-1 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    background-color: white;
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-around;
+    
+
+}
