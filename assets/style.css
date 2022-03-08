@@ -19,6 +19,7 @@ body {
 .box-1 {
     flex-wrap: wrap;
     justify-content: space-between;
+    text-align: center;
     padding: 10px;
     margin: 2em;
 }
